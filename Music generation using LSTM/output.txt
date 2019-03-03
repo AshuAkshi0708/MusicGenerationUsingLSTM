@@ -1,0 +1,62 @@
+CUDA is supported
+Model on CUDA? True
+Training Loss per minibatch after epoch  1 : 3.1751316884630603
+Validation Loss after epoch  1 : 3.3114227330243144
+Training Loss per minibatch after epoch  2 : 2.8855184865938988
+Validation Loss after epoch  2 : 3.1778008429209392
+Training Loss per minibatch after epoch  3 : 2.8492832204228953
+Validation Loss after epoch  3 : 3.153997435039944
+Training Loss per minibatch after epoch  4 : 2.82349792380082
+Validation Loss after epoch  4 : 3.1501670962792856
+Training Loss per minibatch after epoch  5 : 2.799886695083819
+Validation Loss after epoch  5 : 3.1541285776208947
+Training Loss per minibatch after epoch  6 : 2.770877423333494
+Validation Loss after epoch  6 : 3.1256153373365048
+Training Loss per minibatch after epoch  7 : 2.7644500486787997
+Validation Loss after epoch  7 : 3.1312895847249913
+Training Loss per minibatch after epoch  8 : 2.743478652756465
+Validation Loss after epoch  8 : 3.1004216755761043
+Training Loss per minibatch after epoch  9 : 2.758627570804797
+Validation Loss after epoch  9 : 3.099926580146507
+Training Loss per minibatch after epoch  10 : 2.7858574770939977
+Validation Loss after epoch  10 : 3.1237131134668985
+Training Loss per minibatch after epoch  11 : 2.7383203144293082
+Validation Loss after epoch  11 : 3.0931492667728
+Training Loss per minibatch after epoch  12 : 2.72893291176934
+Validation Loss after epoch  12 : 3.081390320636608
+Training Loss per minibatch after epoch  13 : 2.7349089508778173
+Validation Loss after epoch  13 : 3.0813500540344805
+Training Loss per minibatch after epoch  14 : 2.734030966319536
+Validation Loss after epoch  14 : 3.0829443062676325
+Training Loss per minibatch after epoch  15 : 2.735122290645775
+Validation Loss after epoch  15 : 3.0893717673972803
+Training Loss per minibatch after epoch  16 : 2.7806061052021227
+Validation Loss after epoch  16 : 3.0745791262167472
+Training Loss per minibatch after epoch  17 : 2.720841893851757
+Validation Loss after epoch  17 : 3.0859893551579227
+Training Loss per minibatch after epoch  18 : 2.7250203972270612
+Validation Loss after epoch  18 : 3.0942463556925457
+Training Loss per minibatch after epoch  19 : 2.7711941236728115
+Validation Loss after epoch  19 : 3.0882043374026265
+Training Loss per minibatch after epoch  20 : 2.7185595130136138
+Validation Loss after epoch  20 : 3.089954737557305
+Training Loss per minibatch after epoch  21 : 2.7074924583654654
+Validation Loss after epoch  21 : 3.075596729207922
+Training Loss per minibatch after epoch  22 : 2.708741497883671
+Validation Loss after epoch  22 : 3.0683484019173517
+Training Loss per minibatch after epoch  23 : 2.7139264834711425
+Validation Loss after epoch  23 : 3.069291969758493
+Training Loss per minibatch after epoch  24 : 2.7070429984833067
+Validation Loss after epoch  24 : 3.070076919308415
+Training Loss per minibatch after epoch  25 : 2.696762873279421
+Validation Loss after epoch  25 : 3.0668836028487596
+Training Loss per minibatch after epoch  26 : 2.6982532253390863
+Validation Loss after epoch  26 : 3.0669402415664107
+Training Loss per minibatch after epoch  27 : 2.714523863525767
+Validation Loss after epoch  27 : 3.065880980844851
+Training Loss per minibatch after epoch  28 : 2.7568607515410375
+Validation Loss after epoch  28 : 3.0826704975410744
+Training Loss per minibatch after epoch  29 : 2.716633389717654
+Validation Loss after epoch  29 : 3.062374197465402
+Training Loss per minibatch after epoch  30 : 2.7170703421611533
+Validation Loss after epoch  30 : 3.0644679196675617
